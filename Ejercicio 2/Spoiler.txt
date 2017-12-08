@@ -1,11 +1,11 @@
-En el ámbito del desarrollo de videojuegos, la Prueba de Turing
-se podría utilizar para evaluar la IA de un juego. Básicamente, sería
-posible aplicar esta prueba a los Non-Player Characters (NPCs) con el
-objetivo de averiguar si el jugador humano es capaz de saber si son
-realmente bots o podrían confundirse con jugadores reales.
-Aunque actualmente existen juegos que tienen un grado de IA muy
-sofisticado, en términos generales es relativamente fácil distinguir entre
-NPC y jugador real. Incluso en juegos tan trabajados desde el punto
-de vista computacional como el ajedrez, en ocasiones las decisiones
-tomadas por la máquina delatan su naturaleza.
-Pagina 2
+n l mbt dl dsrrll d vdjgs, l Prb d Trng
+s pdr tlzr pr vlr l  d n jg. Bscmnt, sr
+psbl plcr st prb  ls Nn-Plyr Chrctrs (NPCs) cn l
+bjtv d vrgr s l jgdr hmn s cpz d sbr s sn
+rlmnt bts  pdrn cnfndrs cn jgdrs rls.
+nq ctlmnt xstn jgs q tnn n grd d  my
+sfstcd, n trmns gnrls s rltvmnt fcl dstngr ntr
+NPC y jgdr rl. ncls n jgs tn trbjds dsd l pnt
+d vst cmptcnl cm l jdrz, n csns ls dcsns
+tmds pr l mqn dltn s ntrlz.
+Pgn 2
