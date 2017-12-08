@@ -1,0 +1,7 @@
+¿Qué entiende como "commit"?
+Sirve para agregar los archivos al repositorio local (mi computadora)
+
+¿Qué entiende como "merge"?
+Sirve para unir dos ramas distintas
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
