@@ -1,0 +1,10 @@
+El programador novato regresa y dice, "Me gustan los bucles while, pero
+cuando se gestionan arrays no son los más fáciles de utilizar, realmente
+necesito un índice numérico. ¿Existe algo así?" "Claro", le dice, "pruebe el
+bucle for".
+El bucle for de Java es una buena elección cuando se quiere usar un índice
+numérico que se incremente o decremente automáticamente cada vez que se
+pase por el bucle, como ocurre cuando se está trabajando con un array. En
+general, este es el formato del bucle for
+
+Pagina 168
